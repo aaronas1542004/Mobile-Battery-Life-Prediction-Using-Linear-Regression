@@ -52,3 +52,16 @@ Mean Squared Error: 0.69
 R-squared Score: 0.94
 
 Predicted battery life for 5h screen time on WiFi: 15.77 hours
+
+
+
+   dataset
+   screen_time,apps_used,network,battery_hours
+2,10,WiFi,18
+3,15,WiFi,16
+4,20,MobileData,14
+5,25,MobileData,12
+6,30,MobileData,10
+7,35,MobileData,9
+8,40,WiFi,11
+9,45,WiFi,10
